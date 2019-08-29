@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Está tudo equivocado isso ae
+=======
+Um teste provisórioBoa Noite a Todos neste
+localll
+aaauuu
+>>>>>>> Nova informação
